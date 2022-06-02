@@ -181,7 +181,7 @@ export default class reactNativeBeaconExample extends Component {
     );
   }
   const dd = "читерство пше";
-  const dvd = "читерство пше";
+  const dvd = "читерство пше";const dvd = "читерство пше";const dvd = "читерство пше";
 
   renderRow = rowData => {
     var beacon_distance = Platform.OS === 'ios' ? rowData.accuracy : rowData.distance;

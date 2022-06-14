@@ -52,7 +52,7 @@
 28        android:allowBackup="false"
 28-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:17:7-34
 29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-29-->[androidx.core:core:1.5.0] C:\Users\Avvraam\.gradle\caches\transforms-3\f382564408e8806e991bcb7c984abfd6\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+29-->[androidx.core:core:1.6.0] C:\Users\Avvraam\.gradle\caches\transforms-3\5c61d7afbc1bcd99cb491da6ba2ee6c1\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 30        android:debuggable="true"
 31        android:icon="@mipmap/ic_launcher"
 31-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:15:7-41
